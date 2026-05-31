@@ -1,0 +1,30 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: SG-postgres
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=tech_db
+      - POSTGRES_USER=steven
+      - POSTGRES_PASSWORD=st
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/data/postgres
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@espe.edu.ec
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+volumes:
+  pgdata:
+  pgadmin_data:
