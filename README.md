@@ -1,4 +1,4 @@
-# Autonomo-1P - Gestión de Inventario Tecnológico
+# Autonomo-1P - Comparativa de Paradigmas de Programación
 
 ## Autor
 
