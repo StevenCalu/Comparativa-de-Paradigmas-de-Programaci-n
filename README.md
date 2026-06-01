@@ -94,20 +94,10 @@ Desventajas:
 
 ## Comparación General
 
-| Criterio                   | Imperativo     | Funcional      |
-| -------------------------- | -------------- | -------------- |
-| Líneas de código           | Mayor cantidad | Menor cantidad |
-| Legibilidad                | Media          | Alta           |
-| Facilidad de mantenimiento | Media          | Alta           |
-| Complejidad inicial        | Baja           | Media          |
 | Escalabilidad              | Media          | Alta           |
 
 ## Conclusiones
 
 Ambos enfoques permiten resolver correctamente el problema planteado. Sin embargo, el paradigma funcional ofrece una solución más concisa, legible y fácil de mantener, especialmente cuando se trabaja con grandes volúmenes de datos. Por otro lado, el paradigma imperativo proporciona un mayor control sobre el flujo de ejecución y resulta útil para comprender el procesamiento paso a paso.
 
-## Repositorio GitHub
 
-Enlace del repositorio:
-
-https://github.com/USUARIO/Autonomo-1P
