@@ -46,6 +46,8 @@ GET /hardware/imperativo
 ### Reporte Funcional
 
 GET /hardware/funcional
+<img width="1088" height="752" alt="image" src="https://github.com/user-attachments/assets/927132f9-5fa4-472a-9574-e23ab14ec152" />
+
 
 ### Resumen IA
 
