@@ -4,12 +4,6 @@
 
 Steven Caluña
 
-## Descripción del Proyecto
-
-Este proyecto consiste en el desarrollo de una aplicación Spring Boot para la gestión y análisis de inventario tecnológico. El sistema procesa información de equipos de hardware almacenados en una base de datos y genera reportes analíticos utilizando dos paradigmas de programación: Imperativo y Funcional.
-
-Además, se integra Inteligencia Artificial mediante LangChain4j para generar resúmenes automáticos del inventario procesado.
-
 ## Arquitectura Implementada
 
 El proyecto sigue una arquitectura por capas:
