@@ -41,17 +41,18 @@ El sistema realiza las siguientes operaciones:
 
 ### Reporte Imperativo
 
-GET /hardware/imperativo
+<img width="1101" height="777" alt="image" src="https://github.com/user-attachments/assets/ebe1ee5a-bda2-4bb4-a13b-c71a71e80b3c" />
+
 
 ### Reporte Funcional
 
-GET /hardware/funcional
 <img width="1088" height="752" alt="image" src="https://github.com/user-attachments/assets/927132f9-5fa4-472a-9574-e23ab14ec152" />
 
 
 ### Resumen IA
 
-GET /hardware/resumen
+<img width="1071" height="407" alt="image" src="https://github.com/user-attachments/assets/ef59a33d-31a8-4a97-9657-3f16e33b527a" />
+
 
 ## Comparación entre Paradigma Imperativo y Funcional
 
@@ -97,6 +98,6 @@ Desventajas:
 
 ## Conclusiones
 
-Ambos enfoques permiten resolver correctamente el problema planteado. Sin embargo, el paradigma funcional ofrece una solución más concisa, legible y fácil de mantener, especialmente cuando se trabaja con grandes volúmenes de datos. Por otro lado, el paradigma imperativo proporciona un mayor control sobre el flujo de ejecución y resulta útil para comprender el procesamiento paso a paso.
+Ambos enfoques nod permiten resolver el problema pero sin embargo el l paradigma funcional ofrece una solución más concisa, legible y fácil de mantener por lo que es la mejor opcion cuando se trata de trabajar con gran volumen de datos. Por otro lado el paradigma imperativo proporciona un mayor control sobre el flujo de ejecución y resulta útil para comprender el procesamiento paso a paso.
 
 
