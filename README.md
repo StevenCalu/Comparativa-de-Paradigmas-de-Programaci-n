@@ -92,9 +92,6 @@ Desventajas:
 * Requiere conocimientos previos de programación funcional.
 * Puede resultar menos intuitivo para desarrolladores principiantes.
 
-## Comparación General
-
-| Escalabilidad              | Media          | Alta           |
 
 ## Conclusiones
 
